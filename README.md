@@ -1,4 +1,4 @@
-# Tugas-Individu-3
+## Tugas Individu 3
 
 ```
 Nama  : Muhammad Azzam Al Fauzie
